@@ -1,0 +1,2 @@
+#!/bin/bash
+ comm -23 <(set|sort) <(printenv|sort)
